@@ -12,7 +12,7 @@ router.get('/', function(req, res) {
     myArtwork = myArtwork.concat(item.artwork);
   });
   res.render('index', {
-    title: 'Home',
+    title: 'Where to find',
     artwork: myArtwork,
     artists: myArtists,
     page: 'home'

@@ -30,10 +30,6 @@
     "shortname" : "facebook",
     "img" : "/images/socialmedia/facebook.png",
     "url" : "https://www.facebook.com/zhenghao888"
-  },{
-    "shortname" : "meetup",
-    "img" : "/images/socialmedia/meetup.png",
-    "url" : "http://www.meetup.com/rouxmeet/"
   }],
 
   "meeting" : {
