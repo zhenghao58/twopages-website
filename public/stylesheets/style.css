@@ -124,9 +124,7 @@ p {
 }
 
 .layout {
-  *zoom: 1;
   max-width: 61em;
-  _width: 61em;
   padding-left: 1em;
   padding-right: 1em;
   margin-left: auto;
@@ -260,7 +258,7 @@ header .navigation ul.nav li:hover a {
 #getbusy a{
   text-decoration: none;
 }
-@media (min-width: 47em) {
+@media (min-width: 30em) {
   .layout .primary {
     width: 66.10169%;
     float: left;
@@ -295,7 +293,6 @@ header .navigation ul.nav li:hover a {
     -o-background-size: cover;
     background-size: cover;
     margin: 0 auto;
-    display: block;
     -webkit-transition: all 1s ease-out;
     -moz-transition: all 1s ease-out;
     -o-transition: all 1s ease-out;
