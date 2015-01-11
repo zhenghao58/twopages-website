@@ -304,7 +304,7 @@ header .navigation ul.nav li:hover a {
     
       }
   .hero .branding p{
-    font-family:'Bree Serif';
+    font-family: Bree Serif, serif;
     font-size: 66px;
     font-weight: bold;
     color: white;
