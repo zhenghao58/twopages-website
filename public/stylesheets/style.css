@@ -57,7 +57,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 
 body {
-  font-family: Merriweather, serif;
+  font-family: Open Sans, sans-serif;
   font-size: 1.2rem;
   line-height: 160%;
   background: #eae3cb;
@@ -257,6 +257,9 @@ header .navigation ul.nav li:hover a {
   color: #f8c64c;
 }
 
+#getbusy a{
+  text-decoration: none;
+}
 @media (min-width: 47em) {
   .layout .primary {
     width: 66.10169%;
