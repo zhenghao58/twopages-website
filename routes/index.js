@@ -49,7 +49,7 @@ router.get('/speakers/:speakerid', function(req, res) {
     }
   });
   res.render('speakers', {
-    title: 'Speakers',
+    title: 'Attractions',
     artwork: myArtwork,
     artists: myArtists,
     page: 'artistDetail'
