@@ -1,24 +1,24 @@
 {
   "speakers": [{
-    "title" : "Art in Full Bloom",
-    "name": "Lorenzo Garcia",
-    "shortname" : "Lorenzo_Garcia",
-    "summary" : "Drawing and painting flowers may seem like a first-year art student's assignment, but Lorenzo Garcia brings depth, shadows, light, form and color to new heights with his unique and revolutionary technique of painting on canvas with ceramic glaze. This session is sure to be a hit with mixed media buffs.",
-    "description": "<p>Lorenzo was born in Mexico, but grew up in Southern California after his mother immigrated to Los Angeles when he was a year old. His mother worked as a seamstress in the Fashion District and brought home scrap materials for Lorenzo to create his early mixed media art. From that point on, Lorenzo became hooked on creating art from scrap metals, fabrics, wood, canvas, and many others. During his junior year at Bischon Art School in Los Angeles, he perfected his own proprietary method of painting on canvas with ceramic glaze, which he will demonstrate on Monday in his session, 'Art in Full Bloom'.</p><p>Lorenzo paints with an extraordinary amount of color, and prefers to create art centered around nature, animals, and science. Now in his senior year at Bischon, Lorenzo has been creating mixed media totem poles made from old telephone poles, and other recycled materials, and is already planning his next new technique that will likely inspire a trend for years to come.</p>",
+    "title" : "Crossroads of the World",
+    "name": "Times Square",
+    "shortname" : "Times_Square",
+    "summary" : "Not sure where to look while walking through world-famous Times Square? Don't worry—you're not alone. With massive digital billboards whose bright lights make midnight look like midafternoon; star-studded Broadway and Off-Broadway shows (and reduced-price tickets to see them available from the TKTS Discount Booth); people peddling art and jewelry on the street; and, of course, the Naked Cowboy—who plays guitar in his tighty-whities—the expansive stretch of Midtown is a feast for all five senses.",
+    "description": "<p>Times Square is a major commercial intersection and a neighborhood in Midtown Manhattan, New York City, at the junction of Broadway (now converted into a pedestrian plaza) and Seventh Avenue and stretching from West 42nd to West 47th Streets. Brightly adorned with billboards and advertisements, Times Square is sometimes referred to as 'The Crossroads of the World','The Center of the Universe', and the heart of 'The Great White Way'. It is the hub of the Broadway Theater District, one of the world's busiest pedestrian intersections, and a major center of the world's entertainment industry. Times Square is one of the world's most visited tourist attractions, drawing over 39 million visitors annually.Approximately 330,000 people pass through Times Square daily, many of whom are either tourists or people working in the area.</p>",
     "artwork": ["Lorenzo_Garcia_01_tn.jpg", "Lorenzo_Garcia_02_tn.jpg", "Lorenzo_Garcia_03_tn.jpg", "Lorenzo_Garcia_04_tn.jpg"]
   },{
-    "title" : "Deep Sea Wonders",
-    "name": "Hilary Goldywynn Post",
-    "shortname" : "Hillary_Goldwynn",
-    "summary": "Hillary is a sophomore art sculpture student at New York University, and has won the major international prizes for painters, including the Divinity Circle and the International Painter's Medal. Hillary's exhibit features paintings that contain only water including waves, deep sea, and river.",
-    "description": "<p>Hillary is a sophomore art sculpture student at New York University, and has already won all the major international prizes for new painters, including the Divinity Circle, the International Painter's Medal, and the Academy of Paris Award. Hillary's CAC exhibit features paintings that contain only water images including waves, deep sea, and river.</p><p>An avid water sports participant, Hillary understands the water in many ways in which others do not, or may not ever have the opportunity. Her goal in creating the CAC exhibit was to share with others the beauty, power, and flow of natural bodies of water throughout the world. In addition to the display, Hilary also hosts a session on Tuesday called Deep Sea Wonders, which combines her love of deep sea diving and snorkeling, with instruction for capturing the beauty of underwater explorations on canvas.</p>",    
+    "title" : "Statue of Liberty",
+    "name": "Statue of Liberty",
+    "shortname" : "Statue_of_Liberty",
+    "summary": "The Statue of Liberty is New York City's most recognizable landmark, a gleaming beacon for generations of immigrants seeking a better life in America. ",
+    "description": "<p>The Statue of Liberty (Liberty Enlightening the World; French: La Liberté éclairant le monde) is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States. The statue, designed by Frédéric Auguste Bartholdi, a French sculptor and dedicated on October 28, 1886, was a gift to the United States from the people of France. The statue is of a robed female figure representing Libertas, the Roman goddess of freedom, who bears a torch and a tabula ansata (a tablet evoking the law) upon which is inscribed the date of the American Declaration of Independence, July 4, 1776. A broken chain lies at her feet. The statue is an icon of freedom and of the United States: a welcoming signal to immigrants arriving from abroad.</p>",    
     "artwork" : ["Hillary_Goldwynn_01_tn.jpg" , "Hillary_Goldwynn_02_tn.jpg" , "Hillary_Goldwynn_03_tn.jpg" , "Hillary_Goldwynn_04_tn.jpg" , "Hillary_Goldwynn_05_tn.jpg" , "Hillary_Goldwynn_06_tn.jpg" , "Hillary_Goldwynn_07_tn.jpg"]
   },{
-    "title" : "The Art of Abstract",
-    "name": "Riley Rudolph Rewington",
-    "shortname" : "Riley_Rewington",
-    "summary": "The leader of the MMA artistic movement in his hometown of Portland, Riley Rudolph Rewington draws a crowd wherever he goes. Mixing street performance, video, music, and traditional art, Riley has created some of the most unique and deeply poignant abstract works of his generation.",
-    "description": "<p>Riley started out as musician and street performance artist, and now blends painting and photography with audio, video, and computer multimedia to create what he calls 'Music and Multimedia Artworks.' Riley's innovations in using multimedia to express art have created a youth culture movement in his town of Portland, in which he remains at the forefront. In his role as the founder of the MMA art form, Riley has become an inspiration to many up and coming artists. However, the part Riley insists is most important to him, is that he's helped many troubled youth take control of their lives, and create their own unique, positive futures. Seeing kids he's mentored graduate from high school and enroll in college, gives art the purpose that Riley so craves.</p><p>A first-year student at the Roux Academy of Art, Media, and Design, Riley is already changing the face of modern art at the university. Riley's exquisite abstract pieces have no intention of ever being understood, but instead beg the viewer to dream, create, pretend, and envision with their mind's eye. Riley will be speaking on the 'Art of Abstract' during Thursday's schedule.</p>",
+    "title" : "My School",
+    "name": "New York University",
+    "shortname" : "NYU",
+    "summary": "New York University (NYU) is a private, nonsectarian American research university based in New York City. NYU's main campus is located at Greenwich Village in Lower Manhattan. Founded in 1831, NYU is one of the largest private nonprofit institutions of American higher education.",
+    "description": "<p>New York University’s primary campus is located in the lively Greenwich Village neighborhood of Manhattan. NYU is a true city school, with no borders separating a distinct campus from the streets of the Big Apple. Students are guaranteed housing for all four years in the many residence halls throughout Manhattan, but many upperclassmen choose to live off campus in apartments around the city. NYU has a small but active Greek life with more than 25 fraternity and sorority chapters. There are hundreds of student organizations on campus, such as NYU-TV, which operates both the University Channel and the Movie Channel to provide entertainment and information to the university community.</p>",
     "artwork" : ["Riley_Rewington_01_tn.jpg","Riley_Rewington_02_tn.jpg","Riley_Rewington_03_tn.jpg","Riley_Rewington_04_tn.jpg","Riley_Rewington_05_tn.jpg","Riley_Rewington_06_tn.jpg"]
   }],
 
@@ -30,15 +30,9 @@
     "shortname" : "facebook",
     "img" : "/images/socialmedia/facebook.png",
     "url" : "https://www.facebook.com/zhenghao888"
-  }],
-
-  "meeting" : {
-    "date": "Thursday, March 27th",
-    "time": "6-9pm",
-    "where": {
-      "name": "Hotel Gwendoline",
-      "img": "/images/misc/hotel_gwendoline.jpg",
-      "address": "123 Elm Street"
-    }
-  }
+  },{
+    "shortname" : "instagram",
+    "img" : "/images/socialmedia/instagram.png",
+    "url" : "http://instagram.com/zhenghao58"
+  }]
 }

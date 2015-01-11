@@ -12,7 +12,7 @@ router.get('/', function(req, res) {
     myArtwork = myArtwork.concat(item.artwork);
   });
   res.render('index', {
-    title: 'Where to find',
+    title: 'Must-See NYC',
     artwork: myArtwork,
     artists: myArtists,
     page: 'home'
@@ -29,7 +29,7 @@ router.get('/speakers', function(req, res) {
     myArtwork = myArtwork.concat(item.artwork);
   });
   res.render('speakers', {
-    title: 'Speakers',
+    title: 'Attractions',
     artwork: myArtwork,
     artists: myArtists,
     page: 'artistList'
